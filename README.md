@@ -83,4 +83,4 @@
 <hr>
 <h2 align>Spotify Playing 🎧</h2>
     
-![Spotify](https://novatorem.vercel.app/api/spotify)
+![Spotify]([https://novatorem.vercel.app/api/spotify](https://spotify.link/IMF0GBMMwBb)https://spotify.link/IMF0GBMMwBb)
