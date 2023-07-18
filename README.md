@@ -83,4 +83,4 @@
 <hr>
 <h2 align>Spotify Playing 🎧</h2>
     
-![Spotify] (https://spotify.link/IMF0GBMMwBb)https://spotify.link/IMF0GBMMwBb)
+![Spotify] (https://spotify.link/IMF0GBMMwBb)
