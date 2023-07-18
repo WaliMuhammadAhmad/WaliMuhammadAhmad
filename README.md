@@ -54,8 +54,6 @@
 
  
 <br>
-<h2> Contribution Graph: </h2>
- <img src="https://activity-graph.herokuapp.com/graph?username=thenumanahmed&bg_color=000005&color=ffffff&line=0c3d6e&point=0863bf&custom_title=This%20is%20a%20title&hide_border=true"/>
  <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
