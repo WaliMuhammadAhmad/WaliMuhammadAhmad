@@ -19,11 +19,13 @@
  <td align='center' width="200">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
-  <td align='center'>
-        <img src="https://th.bing.com/th/id/OIP.FxqaNYhqoLjxa63A-oXMQgHaFj?pid=ImgDet&rs=1" width="80">
+ </td>
+  <td align='center' width="200">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80">
     </td>
+<!--   numpy -->
    <td align='center' width="200">
-        <img src="https://th.bing.com/th/id/OIP.jVC2bf34N9CmRK3mY1GiGwHaHa?pid=ImgDet&rs=1">
+        <img src="https://th.bing.com/th/id/R.7dbaafc15f13ba1e82d2db9244f9608d?rik=JRNEKsrrGZ5uzA&pid=ImgRaw&r=0">
     </td>
  
 </tr>
@@ -37,14 +39,7 @@
     </td>
   <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
-    </td>
-  <td align='center' width="200">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80">
-    </td>
-<!--   numpy -->
-   <td align='center' width="200">
-        <img src="https://th.bing.com/th/id/R.7dbaafc15f13ba1e82d2db9244f9608d?rik=JRNEKsrrGZ5uzA&pid=ImgRaw&r=0">
-    </td>
+   
    
 
    
@@ -73,10 +68,10 @@
 
 <p align="center">
 <a href="https://github.com/WaliMuhammadAhmad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thenumanahmed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thenumanahmed&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaliMuhammadAhmad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WaliMuhammadAhmad&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=thenumanahmed&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=WaliMuhammadAhmad&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
 
