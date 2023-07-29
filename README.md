@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Wali Muhammad Ahmad👋<a href="#"></h1>
+    <h1> Hi there, I'm Wali Muhammad 👋<a href="#"></h1>
   </div>
 <p align="center">
   <a href="https://github.com/WaliMuhammadAhmad"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
