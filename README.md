@@ -5,9 +5,6 @@
 <p align="center">
   <a href="https://github.com/WaliMuhammadAhmad"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
 <br>
- 
-<h1 align="center">Hi 👋, I'm Wali Muhammad Ahmad</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walimuhammadahmad" alt="walimuhammadahmad" /></a> </p>
 
 - 🔭 I’m currently working on [DeepFake Audio Detection](https://github.com/MarkHershey/AudioDeepFakeDetection.git)
 
