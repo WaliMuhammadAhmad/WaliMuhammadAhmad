@@ -174,8 +174,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walimuhammadahmad&" alt="walimuhammadahmad" /></p>
 <br>
 
-<h2 align>🎧 Spotify Playing</h2>
-![Spotify](https://novatorem.vercel.app/api/spotify)
+<h2>🎧 Spotify Playing</h2>
+<a href="https://open.spotify.com/playlist/37i9dQZEVXcFHXhfD9hVC1?si=20bd6fe171304a41">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsroom.spotify.com%2Fmedia-kit%2Flogo-and-brand-assets%2F&psig=AOvVaw0dmE10QWfKXt0FrX2-Z_ng&ust=1692086598928000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjK1PfX24ADFQAAAAAdAAAAABAE" height="100" width="410" /></a>
 
 <h3 align="left">🙌 Support</h3>
-<p><a href="https://www.buymeacoffee.com/https://bmc.link/walimuhammaD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="410" alt="https://bmc.link/walimuhammaD" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/walimuhammaD"> 
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="410" alt="walimuhammaD" /></a></p><br>
