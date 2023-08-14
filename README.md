@@ -164,7 +164,6 @@
         </tr>
     </table>
 
-<hr>
 
 <h2>🚀 Github Progress </h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walimuhammadahmad&show_icons=true&locale=en&layout=compact" alt="walimuhammadahmad" /></p>
@@ -176,8 +175,8 @@
 
 <h2>🎧 Spotify Playing</h2>
 <a href="https://open.spotify.com/playlist/37i9dQZEVXcFHXhfD9hVC1?si=20bd6fe171304a41">
-<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png"/></a>
+<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png" height="150" width="410" /></a>
 
-<h3 align="left">🙌 Support</h3>
+<h2>🙌 Support</h2>
 <p><a href="https://www.buymeacoffee.com/walimuhammaD"> 
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="410" alt="walimuhammaD" /></a></p><br>
