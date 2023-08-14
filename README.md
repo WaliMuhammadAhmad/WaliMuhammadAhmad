@@ -176,7 +176,7 @@
 
 <h2>🎧 Spotify Playing</h2>
 <a href="https://open.spotify.com/playlist/37i9dQZEVXcFHXhfD9hVC1?si=20bd6fe171304a41">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsroom.spotify.com%2Fmedia-kit%2Flogo-and-brand-assets%2F&psig=AOvVaw0dmE10QWfKXt0FrX2-Z_ng&ust=1692086598928000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjK1PfX24ADFQAAAAAdAAAAABAE" height="100" width="410" /></a>
+<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png" height="100" width="410" /></a>
 
 <h3 align="left">🙌 Support</h3>
 <p><a href="https://www.buymeacoffee.com/walimuhammaD"> 
