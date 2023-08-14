@@ -164,13 +164,18 @@
         </tr>
     </table>
 
-<br>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://bmc.link/walimuhammaD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="410" alt="https://bmc.link/walimuhammaD" /></a></p><br><br>
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walimuhammadahmad&show_icons=true&locale=en&layout=compact" alt="walimuhammadahmad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walimuhammadahmad&show_icons=true&locale=en" alt="walimuhammadahmad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walimuhammadahmad&" alt="walimuhammadahmad" /></p>
+
+<h2 align>Spotify Playing 🎧</h2>
+<hr>
+
+[![Spotify](https://WaliMuhammadAhmad.vercel.app/api/spotify)](https://open.spotify.com/user/Wali%20Muhammad)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://bmc.link/walimuhammaD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="410" alt="https://bmc.link/walimuhammaD" /></a></p><br><br>
