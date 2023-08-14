@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advance Python and it's frameworks for Machine Learning**
 
-- 👨‍💻 All of my Achievements are here [Certificates & Achievements](linkedin.com/in/wali-muhammad-ahmad-06935922b)
+- 👨‍💻 All of my Achievements are here [Certificates & Achievements](https://www.linkedin.com/in/wali-muhammad-ahmad-06935922b/recent-activity/all/)
 
 - 💬 Ask me about **Python, Sci-kit Learn**
 
@@ -66,19 +66,19 @@
             </td>
             <!--Instagrm-->
             <td align='center'>
-                <a href="https://instagram.com/itx.walm_m" target="blank"><img align="center"
+                <a href="https://www.instagram.com/itx.wali_m/" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                         alt="itx.walm_m" height="80" width="80" /></a>
             </td>
             <!--Twitter-->
             <td align='center'>
-                <a href="https://twitter.com/walimuhammadah02" target="blank"><img align="center"
+                <a href="https://twitter.com/WaliMuhammadAh2" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                         alt="walimuhammadah02" height="80" width="80" /></a>
             </td>
             <!--LinkedIn-->
             <td align='center'>
-                <a href="https://linkedin.com/in/wali muhammad ahmad" target="blank"><img align="center"
+                <a href="https://www.linkedin.com/in/wali-muhammad-ahmad-06935922b/" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                         alt="wali muhammad ahmad" height="80" width="80" /></a>
             </td>
@@ -166,16 +166,16 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walimuhammadahmad&show_icons=true&locale=en&layout=compact" alt="walimuhammadahmad" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walimuhammadahmad&show_icons=true&locale=en&layout=compact" alt="walimuhammadahmad" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walimuhammadahmad&show_icons=true&locale=en" alt="walimuhammadahmad" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walimuhammadahmad&" alt="walimuhammadahmad" /></p>
-
+<br>
 <h2 align>Spotify Playing 🎧</h2>
 <hr>
 
-[![Spotify](https://WaliMuhammadAhmad.vercel.app/api/spotify)](https://open.spotify.com/user/Wali%20Muhammad)
+[![Spotify](https://WaliMuhammadAhmad.vercel.app/api/spotify)](https://open.spotify.com/user/31k2jqutdjbl3sab4vnwf3ltmaji)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/walimuhammaD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="410" alt="https://bmc.link/walimuhammaD" /></a></p><br><br>
