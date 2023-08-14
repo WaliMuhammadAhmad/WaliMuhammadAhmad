@@ -4,7 +4,7 @@
     </div>
     <p align="center">
         <a href="https://github.com/WaliMuhammadAhmad"><img
-                src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;AI+Enthusiast|%20Machine+Learning|%20Deep+Learning;Always%20learning%20new%20Technology;React.js%20Developer;Music%20Lover&center=true&width=500&height=50"></a>
+                src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Machine+Learning|%20Deep+Learning|%20Enthusiast;Always%20learning%20new%20Technology;React.js%20Developer;Music%20Lover&center=true&width=500&height=50"></a>
 
 - 🔭 I’m currently working on [DeepFake Audio Detection](https://github.com/MarkHershey/AudioDeepFakeDetection.git)
 
@@ -176,7 +176,7 @@
 
 <h2>🎧 Spotify Playing</h2>
 <a href="https://open.spotify.com/playlist/37i9dQZEVXcFHXhfD9hVC1?si=20bd6fe171304a41">
-<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png" height="100" width="410" /></a>
+<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png"/></a>
 
 <h3 align="left">🙌 Support</h3>
 <p><a href="https://www.buymeacoffee.com/walimuhammaD"> 
