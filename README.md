@@ -175,7 +175,7 @@
 <h2 align>Spotify Playing 🎧</h2>
 <hr>
 
-[![Spotify](https://WaliMuhammadAhmad.vercel.app/api/spotify)](https://open.spotify.com/user/31k2jqutdjbl3sab4vnwf3ltmaji)
+[![Spotify](https://open.spotify.com/track/1aehAdpuxfdZQebXkHPHT8)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/walimuhammaD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="410" alt="https://bmc.link/walimuhammaD" /></a></p><br><br>
