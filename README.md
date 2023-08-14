@@ -166,16 +166,16 @@
 
 <hr>
 
+<h2>🚀 Github Progress </h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walimuhammadahmad&show_icons=true&locale=en&layout=compact" alt="walimuhammadahmad" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walimuhammadahmad&show_icons=true&locale=en" alt="walimuhammadahmad" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walimuhammadahmad&" alt="walimuhammadahmad" /></p>
 <br>
-<h2 align>Spotify Playing 🎧</h2>
-<hr>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)
+<h2 align>🎧 Spotify Playing</h2>
+![Spotify](https://novatorem.vercel.app/api/spotify)
 
-<h3 align="left">Support:</h3>
+<h3 align="left">🙌 Support</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/walimuhammaD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="410" alt="https://bmc.link/walimuhammaD" /></a></p><br><br>
