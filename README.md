@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [DeepFake Audio Detection](https://github.com/MarkHershey/AudioDeepFakeDetection.git)
 
-- 🌱 I’m currently learning **Advance Python and it's frameworks for Machine Learning**
+- 🌱 I’m currently learning **Advanced Python and its frameworks for Machine Learning**
 
 - 👨‍💻 All of my Achievements are here [Certificates & Achievements](https://www.linkedin.com/in/wali-muhammad-ahmad-06935922b/recent-activity/all/)
 
@@ -175,7 +175,7 @@
 
 <h2>🎧 Spotify Playing</h2>
 <a href="https://open.spotify.com/playlist/37i9dQZEVXcFHXhfD9hVC1?si=20bd6fe171304a41">
-<img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png" height="130" width="410" /></a>
+<img src="https://phcorner.net/attachments/giphy-1-ezgif-com-gif-maker-gif.2524313/" height="130" width="410" /></a>
 
 <h2>🙌 Support</h2>
 <p><a href="https://www.buymeacoffee.com/walimuhammaD"> 
