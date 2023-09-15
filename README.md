@@ -166,11 +166,8 @@
 
 
 <h2>🚀 Github Progress </h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walimuhammadahmad&show_icons=true&locale=en&layout=compact" alt="walimuhammadahmad"/></p>
-<br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walimuhammadahmad&show_icons=true&locale=en" alt="walimuhammadahmad" /></p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walimuhammadahmad&" alt="walimuhammadahmad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walimuhammadahmad&show_icons=true&locale=en&layout=compact" alt="walimuhammadahmad"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walimuhammadahmad&" alt="walimuhammadahmad" /></p>
 <br>
 
 <h2>🎧 Spotify Playing</h2>
