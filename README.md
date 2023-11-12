@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [DeepFake Audio Detection](https://github.com/MarkHershey/AudioDeepFakeDetection.git)
 
-- 🌱 I’m currently learning **Advanced Python and its frameworks for Machine Learning**
+- 🌱 I’m currently learning **Python for Machine Learning**
 
 - 👨‍💻 All of my Achievements are here [Certificates & Achievements](https://www.linkedin.com/in/wali-muhammad-ahmad-06935922b/recent-activity/all/)
 
@@ -166,7 +166,7 @@
 
 
 <h2>🚀 Github Progress </h2>
-<p size="22" display="inline"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walimuhammadahmad&show_icons=true&locale=en&layout=compact" alt="walimuhammadahmad"/>
+<p size="32" display="inline"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walimuhammadahmad&show_icons=true&locale=en&layout=compact" alt="walimuhammadahmad"/>
 <p size="22" display="inline"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walimuhammadahmad&" alt="walimuhammadahmad" /></p>
 <br>
 
