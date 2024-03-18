@@ -164,12 +164,6 @@
         </tr>
     </table>
 
-
-<h2>🚀 Github Progress </h2>
-<p size="32" display="inline"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walimuhammadahmad&show_icons=true&locale=en&layout=compact" alt="walimuhammadahmad"/>
-<p size="22" display="inline"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walimuhammadahmad&" alt="walimuhammadahmad" /></p>
-<br>
-
 <h2>🎧 Spotify Playing</h2>
 <a href="https://open.spotify.com/playlist/37i9dQZEVXcFHXhfD9hVC1?si=20bd6fe171304a41">
 <img src="https://phcorner.net/attachments/giphy-1-ezgif-com-gif-maker-gif.2524313/" height="130" width="410" /></a>
