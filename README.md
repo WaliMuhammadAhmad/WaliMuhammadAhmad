@@ -1,3 +1,5 @@
+# Hi, I'm Wali M.
+
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Always%20learning%20new%20Technology;AI%20Enthusiant;MERN%20Developer;Hardstyle%20Lover&center=true&width=500&height=50"></a>
 
 - 🔭 I’m currently working on [DeepFake Audio Detection](https://github.com/MarkHershey/AudioDeepFakeDetection.git)
@@ -8,4 +10,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WaliMuhammadAhmad&theme=vision-friendly-dark&hide_border=true)<br/>
 
 # Spotify Playlist
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6rl5RUjxkd2sABwg2namRB?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<a href="https://open.spotify.com/playlist/37i9dQZEVXcFHXhfD9hVC1?si=20bd6fe171304a41">
+<img src="https://phcorner.net/attachments/giphy-1-ezgif-com-gif-maker-gif.2524313/" height="130" width="410" /></a>
