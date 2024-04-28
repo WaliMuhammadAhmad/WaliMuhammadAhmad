@@ -8,5 +8,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WaliMuhammadAhmad&theme=vision-friendly-dark&hide_border=true)<br/>
 
 # Spotify Playlist
-<a href="https://open.spotify.com/playlist/37i9dQZEVXcFHXhfD9hVC1?si=20bd6fe171304a41">
-<img src="https://phcorner.net/attachments/giphy-1-ezgif-com-gif-maker-gif.2524313/" height="130" width="410" /></a>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6rl5RUjxkd2sABwg2namRB?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
