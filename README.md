@@ -1,14 +1,8 @@
-<body>
-    <div align="center">
-        <h1> I'm Wali M. </h1>
-    </div>
-    <p align="center">
-        <a href="https://github.com/WaliMuhammadAhmad"><img
-                src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Always%20learning%20new%20Technology;AI%20Enthusiant;MERN%20Developer;Hardstyle%20Lover&center=true&width=500&height=50"></a>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Always%20learning%20new%20Technology;AI%20Enthusiant;MERN%20Developer;Hardstyle%20Lover&center=true&width=500&height=50"></a>
 
 - 🔭 I’m currently working on [DeepFake Audio Detection](https://github.com/MarkHershey/AudioDeepFakeDetection.git)
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
-- 🎧 I favroutite genre is **Hardstyle**
+- 🎧 My favroutite genre is **Hardstyle**
 
 # GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WaliMuhammadAhmad&theme=vision-friendly-dark&hide_border=true)<br/>
