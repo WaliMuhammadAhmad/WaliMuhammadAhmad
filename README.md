@@ -1,10 +1,11 @@
 # Hi, I'm Wali M.
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Always%20learning%20new%20Technology;AI%20Enthusiant;MERN%20Developer;Hardstyle%20Lover&center=true&width=500&height=50"></a>
-
-- 🔭 I’m currently working on [DeepFake Audio Detection](https://github.com/MarkHershey/AudioDeepFakeDetection.git)
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
-- 🎧 My favroutite genre is **Hardstyle**
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Always%20learning%20new%20Technology;LLM%20Enthusiant;Hardstyle%20Lover&center=true&width=500&height=50"></a>
+https://github.com/WaliMuhammadAhmad/Llama-2-7B-Fine-Tuning-for-Unit-Test-Generation.git
+- 🔭 I've worked on [DeepFake Audio Detection](https://github.com/MarkHershey/AudioDeepFakeDetection.git)
+- 👨🏻‍💻 I'm curremtly working on [LLM's Fine-tunning](https://github.com/WaliMuhammadAhmad/Llama-2-7B-Fine-Tuning-for-Unit-Test-Generation.git)
+- 🌱 I’m currently learning about **Transformers**
+- 🎧 My favroutite genre is **Euphoric Hardstyle**
 
 # GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WaliMuhammadAhmad&theme=vision-friendly-dark&hide_border=true)<br/>
