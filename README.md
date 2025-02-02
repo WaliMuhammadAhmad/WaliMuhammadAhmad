@@ -1,14 +1,16 @@
-# Hi, I'm Wali M.
+# Hi, I'm Wali M. Ahmad
 
 - 🧑‍🎓 I'm Grad Student in Software Engineering
-- 👨🏻‍💻 I'm **Frontend Developer** working with React & Tailwind CSS
-- 🔭 I'm Currently fine-tuning [LLMs for JUnit Test Generation](https://github.com/WaliMuhammadAhmad/finetune) (Final Year Project)
-- 🌱 I'm Learning about **Transformers**
+- 👨🏻‍💻 I'm a **Developer** working with ReactJS, Tailwind CSS and MUI
+- 🔭 I'm Currently working on [LLMs for JUnit Test Case Generation](https://github.com/WaliMuhammadAhmad/sft) (Final Year Project)
+- 🌱 I'm Learning about **SFT in TRL**
 - 🔍 I've worked on [DeepFake Audio Detection](https://github.com/MarkHershey/AudioDeepFakeDetection.git)
 - 🎧 My favourite genre is **Euphoric Hardstyle**
 
-# GitHub Stats
+## GitHub Stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WaliMuhammadAhmad&theme=vision-friendly-dark&hide_border=true)
 
-# Spotify Playlist
-[![Spotify Playlist](https://phcorner.net/attachments/giphy-1-ezgif-com-gif-maker-gif.2524313/)](https://open.spotify.com/playlist/6rl5RUjxkd2sABwg2namRB?si=025e569ad91242cf)
+## Spotify Playlist
+
+[![Spotify Playlist](./spotify.gif)](https://open.spotify.com/playlist/37i9dQZF1EphDrQMQSTYiQ?si=f4d24c8f42a94ee4)
